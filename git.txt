@@ -2,3 +2,5 @@ Nombre: Fabian Florez
 Edad: 34 Anos
 Experiencia: 12 Anos
 Profesion: Ing. Electronico
+Peso: 74 kg
+Altura: 167 cm
