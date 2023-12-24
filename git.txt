@@ -6,3 +6,4 @@ Peso: 74 kg
 Altura: 167 cm
 Mascota: Perro
 Nombre de Mascota: Bruno
+Estado Civil: Soltero
