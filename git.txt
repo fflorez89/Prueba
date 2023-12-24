@@ -4,3 +4,5 @@ Experiencia: 12 Anos
 Profesion: Ing. Electronico
 Peso: 74 kg
 Altura: 167 cm
+Mascota: Perro
+Nombre de Mascota: Bruno
