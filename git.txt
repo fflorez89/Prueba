@@ -1,3 +1,4 @@
 Nombre: Fabian Florez
 Edad: 34 Anos
 Experiencia: 12 Anos
+Peso: 74 kg
